@@ -1,0 +1,24 @@
+000,admin,Buğrahan Efe,46228610560,22,999999999
+4545,tutorA,Oznur Ozkasap,44444,111,111
+74,student,Oğuzcan Kuralkan,7474,22,50000
+13,student,Ali Demircioğlu,1313,22,5000
+07,student,Selen Bilgiç,0707,22,13000
+17,student,Mert Küçükerdem,1717,22,1000
+20,student,Hasan Efe Can,2020,22,500
+55,student,Seray Temür,5555,22,1500
+78,student,Ozan Kemal,7878,22,3000
+93,student,Metehan Demirkol,9393,22,13000
+72,student,Batur Kaplan,7272,22,999999
+400,student,Cenk Koçak,400400,22,1500
+3535,student,Kübra Efe,3535,22,35000
+310,student,Ekin Özgönül,310310,22,2000
+102,tutorB,Umran Inan,102102,60,5000
+101,tutorA,Menderes Iskın,101101,50,5000
+100,tutorA,Murat Kuscu,100100,31,5000
+111,tutorB,Mehmet Sayar,111111,45,5000
+201,tutorA,Alper Demir,201201,45,5000
+446,tutorA,Mehmet Gönen,446446,45,5000
+106,tutorB,Doğan Bilge,106106,40,4000
+2602,tutorA,Buğra Efe,462,22,3000
+456,student,trial,456,456,456
+66,student,Berke Aşaroğlu,6666,31,10000
